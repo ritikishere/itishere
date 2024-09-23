@@ -12,6 +12,7 @@
     <p>Kya ho raha h.<p>
         <script
         src="script.js"></script>
+        :)
     
     
 
